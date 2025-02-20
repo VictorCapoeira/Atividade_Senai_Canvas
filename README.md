@@ -10,5 +10,6 @@ Desenvolvimento de um aplicativo para otimizar a gestão do tempo ao longo do di
 ## Como você testaria a melhor solução?
 Devido à natureza do projeto, a validação da solução deve ocorrer por meio de testes práticos com usuários reais, analisando métricas de usabilidade, adesão e impacto na produtividade.
 
-![image](https://github.com/user-attachments/assets/969b0e64-8d14-4f46-8765-92de6f36ca9f)
+![image](https://github.com/user-attachments/assets/f9006fb2-2994-42a2-bcca-e1690edd93fe)
+
 
